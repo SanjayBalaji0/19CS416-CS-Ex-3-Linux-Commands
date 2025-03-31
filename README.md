@@ -16,6 +16,7 @@ ls
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 132105.png>)
 
 ### 2. `pwd` Command
 
@@ -27,6 +28,7 @@ pwd
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 132111.png>)
 
 ### 3. `mkdir` Command
 
@@ -38,6 +40,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 132117.png>)
 
 ### 4. `rmdir` Command
 
@@ -49,6 +52,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 132133.png>)
 
 ### 5. `cd` Command
 
@@ -60,6 +64,7 @@ cd <directory_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 132402.png>)
 
 ### 6. `cat` Command
 
@@ -71,6 +76,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 132504.png>)
 
 ### 7. `cp` Command
 
@@ -82,6 +88,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 132558.png>)
 
 ### 8. `gedit` Command
 
@@ -93,6 +100,7 @@ gedit <file_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 133350.png>)
 
 ### 9. `su` Command
 
@@ -104,6 +112,7 @@ su <username>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 133344.png>)
 
 ### 10. `mv` Command
 
@@ -115,6 +124,7 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 133450.png>)
 
 ### 11. `rename` Command
 
@@ -126,6 +136,7 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 133754.png>)
 
 ### 12. `head` Command
 
@@ -137,6 +148,7 @@ head <file_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 133909.png>)
 
 ### 13. `tail` Command
 
@@ -148,6 +160,7 @@ tail <file_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 133932.png>)
 
 ### 14. `id` Command
 
@@ -159,6 +172,7 @@ id
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 133949.png>)
 
 ### 15. `grep` Command
 
@@ -170,6 +184,7 @@ command | grep <search_word>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 134132.png>)
 
 ### 16. `tr` Command
 
@@ -181,6 +196,7 @@ command | tr <old> <new>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 134319.png>)
 
 ### 17. `chmod` Command
 
@@ -192,6 +208,7 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-31 124006.png>)
 
 ### 18. `tar` Command
 
@@ -203,6 +220,7 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-31 124140.png>)
 
 ### 19. `chown` Command
 
@@ -214,6 +232,7 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 134604.png>)
 
 ### 20. `make` Command
 
@@ -225,6 +244,7 @@ make [-f makefile] [options] [targets]
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-31 125149.png>)
 
 ### 21. `ifconfig` Command
 
@@ -236,6 +256,7 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 135833.png>)
 
 ### 22. `chmod 777` Command
 
@@ -248,6 +269,7 @@ chmod -R 777 /path/to/file/or/folder
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 135912.png>)
 
 ### 23. `host` Command
 
@@ -259,6 +281,7 @@ host <domain_name> or <ip_address>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 135940.png>)
 
 ### 24. `gzip` Command
 
@@ -270,6 +293,7 @@ gzip <file1> <file2> <file3>...
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 140429.png>)
 
 ### 25. `sort` Command
 
@@ -281,6 +305,7 @@ sort <file_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 140453.png>)
 
 ### 26. `cal` Command
 
@@ -292,6 +317,7 @@ cal
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 140503.png>)
 
 ### 27. `clear` Command
 
@@ -303,6 +329,7 @@ clear
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 140552.png>)
 
 ### 28. `mail` Command
 
@@ -314,6 +341,7 @@ mail
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 140941.png>)
 
 ### 29. `df` Command
 
@@ -325,6 +353,7 @@ df
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 141008.png>)
 
 ### 30. `find` Command
 
@@ -336,5 +365,7 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+![Alt text](<Screenshot 2025-03-29 141102.png>)
 
 ## Result
+Successfully performed the series of Linux commands as specified.
